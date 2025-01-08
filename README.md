@@ -97,6 +97,6 @@ The script includes error handling for:
 
 ## Next Steps
 
-The next lab will introduce Retrieval Augmented Generation (RAG) to handle documents of any length, overcoming the current token limit restriction.
+The I will attempt Retrieval Augmented Generation (RAG) to handle documents of any length, overcoming the current token limit restriction.
 
 
